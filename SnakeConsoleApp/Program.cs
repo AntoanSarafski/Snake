@@ -6,7 +6,7 @@ namespace SnakeConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello !");
+            Console.WriteLine("Starting snake console app.");
         }
     }
 }
